@@ -37,7 +37,6 @@ public class Funcionario {
         }
     }
 
-    // Getters e Setters
     public String getNome() {
         return nome;
     }
