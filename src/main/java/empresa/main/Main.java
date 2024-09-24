@@ -55,6 +55,6 @@ public class Main {
         System.out.println("\nAvaliações do funcionário " + funcionario.getNome() + ":");
         funcionario.exibirAvaliacoes();
 
-        scanner.close(); // Fechar o scanner
+        scanner.close();
     }
 }
